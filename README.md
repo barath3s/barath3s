@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Barath Kumar</h1>
-<h3 align="center">Creative and Visionary Aerospace Engineer with experience in Aircraft structures, Aircraft systems and Data Science</h3>
+<h3 align="center">Dynamic & Results driven Data Scientist & Aircraft system analyst with over 12+ years of diversified experience.</h3>
 
-- 🔭 I’m currently working on [Ascentia](https://www.youtube.com/watch?v=aNWN3p5IRWA)
+- 🔭 I’m currently working for [Ascentia](https://www.youtube.com/watch?v=aNWN3p5IRWA)
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 Providing innovative datascience solution with   **Machine Learning and AI**
 
 - 📫 How to reach me **barath3.s@gmail.com**
 
