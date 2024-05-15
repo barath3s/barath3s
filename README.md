@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Barath Kumar</h1>
-<h3 align="center">Dynamic & Results driven Data Scientist & Aircraft system analyst with over 12+ years of diversified experience.</h3>
+<h1 align="center">Welcome to Barath Kumar's Portfolio</h1>
+<h3 align="center">Dynamic & Results driven Data Scientist & Aircraft system analyst with over 14+ years of diversified experience.</h3>
 
 - 🔭 I’m currently working on [Ascentia](https://www.youtube.com/watch?v=aNWN3p5IRWA)
 
